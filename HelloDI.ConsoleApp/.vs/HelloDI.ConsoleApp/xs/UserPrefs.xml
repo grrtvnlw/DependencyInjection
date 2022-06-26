@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CA244943-7AD8-47D6-B86F-C616782646BB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloDI.ConsoleApp/ConsoleMessageWriter.cs">
+    <Files>
+      <File FileName="HelloDI.ConsoleApp/Program.cs" Line="9" Column="48" />
+      <File FileName="HelloDI.ConsoleApp/Salutation.cs" Line="9" Column="37" />
+      <File FileName="HelloDI.ConsoleApp/IMessageWriter.cs" Line="5" Column="37" />
+      <File FileName="HelloDI.ConsoleApp/ConsoleMessageWriter.cs" Line="5" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloDI.ConsoleApp" expanded="True">
+            <Node name="HelloDI.ConsoleApp" expanded="True">
+              <Node name="ConsoleMessageWriter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HelloDI.ConsoleApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/obj/Debug/netcoreapp3.1/HelloDI.ConsoleApp.csproj.AssemblyReference.cache
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/obj/Debug/netcoreapp3.1/HelloDI.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/obj/Debug/netcoreapp3.1/HelloDI.ConsoleApp.AssemblyInfoInputs.cache
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/obj/Debug/netcoreapp3.1/HelloDI.ConsoleApp.AssemblyInfo.cs
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/obj/Debug/netcoreapp3.1/HelloDI.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/bin/Debug/netcoreapp3.1/HelloDI.ConsoleApp.deps.json
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/bin/Debug/netcoreapp3.1/HelloDI.ConsoleApp.runtimeconfig.json
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/bin/Debug/netcoreapp3.1/HelloDI.ConsoleApp.runtimeconfig.dev.json
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/bin/Debug/netcoreapp3.1/HelloDI.ConsoleApp.dll
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/bin/Debug/netcoreapp3.1/HelloDI.ConsoleApp.pdb
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/obj/Debug/netcoreapp3.1/HelloDI.ConsoleApp.dll
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/obj/Debug/netcoreapp3.1/HelloDI.ConsoleApp.pdb
+/Users/gerritvanleeuwen/DependencyInjection/HelloDI.ConsoleApp/HelloDI.ConsoleApp/obj/Debug/netcoreapp3.1/HelloDI.ConsoleApp.genruntimeconfig.cache
